@@ -7,25 +7,24 @@ author_profile: true
 
 Professional Experience 
 ======
-## *Full Stack Developer*, Equities Tech, Credit Suisse Services AG, Pune [July 2021 - July 2022]
-- Designed, developed and deployed a new service to integrate Stock Borrow Agreement data into existing database
-architecture post new financial legislation being passed in Hong Kong in 2021.
+### *Full Stack Developer*, Equities Tech, Credit Suisse Services AG, Pune [July 2021 - July 2022]
+- Designed, developed and deployed a new service to integrate Stock Borrow Agreement data into existing database architecture post new financial legislation being passed in Hong Kong in 2021.
 - Developed a modern UI for an internal tool to replace EquiLend NGT.
 - Migrated 200+ active, interdependent jobs to new servers using Control-M.
 
-## *Front End Developer*, International Wealth Management, Credit Suisse Services AG, Pune [July 2020 - July 2021]
+### *Front End Developer*, International Wealth Management, Credit Suisse Services AG, Pune [July 2020 - July 2021]
 - Migrated internal dashboards from AngularJS to Angular6.
 
-## *Intern*, International Wealth Management, Credit Suisse Services AG, Pune [May 2019 - July 2019]
+### *Intern*, International Wealth Management, Credit Suisse Services AG, Pune [May 2019 - July 2019]
 
 Projects and Code
 ======
-## A Basic Game Engine \[[link](https://github.com/OJ98/Game_Engine_Design_Final_Project/tree/main)\]
+### A Basic Game Engine [link](https://github.com/OJ98/Game_Engine_Design_Final_Project/tree/main)
 <div style="width: 80%;">
     This is an implementation of a basic game engine in C++. The engine was developed for a basic platformer and achieves code reuse of ~95% for an implementation of Flappy Bird and ~82% for an implementation of Space Invaders.
 </div>
 
-## JChat - A JATMO-inspired Universal LLM chat Prompt Injection Defender \[[link](https://github.com/davidroot8/JChat)\]
+### JChat - A JATMO-inspired Universal LLM chat Prompt Injection Defender [link](https://github.com/davidroot8/JChat)
 <div style="width: 80%;">
     Large Language Models (LLMs) are one of the most significant innovations of the past decade due to their immense scope and versatility. However, it is this same scope that makes LLMs vulnerable to prompt-based attacks including prompt injection. To the best of our knowledge, there is no comprehensive defense technique against prompt injection. Most popular models including Meta AI’s LLaMa series and OpenAI’s GPT series are vulnerable to prompt injection. This paper proposes a detection-elimination based approach to the problem of prompt injection defense. We evaluate this approach on three parameters - effectiveness, performance and efficiency and report comparative results against baselines including GPT3.5 and LlaMa2.
 </div>
@@ -37,3 +36,4 @@ Projects and Code
 
 ## Phishing and LLMs
 <div style="width: 80%;">
+</div>
