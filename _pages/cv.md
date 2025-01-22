@@ -45,4 +45,4 @@ Service and leadership
 ======
 * Reviewer: EMNLP 2022, EMNLP 2023
 
-[Download]((/files/Resume_PhD.pdf))
+[Download](/files/Resume_PhD.pdf)
