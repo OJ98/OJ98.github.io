@@ -20,8 +20,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Professional Experiences"
+  - title: "Professional Experience"
     url: /experiences/
+
+  - title: "Projects and Code"
+    url: /pandc/
 
   - title: "CV"
     url: /cv/
