@@ -12,6 +12,11 @@ Projects and Code
     Current-gen LLMs have the capacity to generate high-quality HTML pages that could prove to be effective in a phishing context. This project aims to investigate the occurence of this behavior and the features that can serve as reliable indicators to predict it.
 </div>
 
+### A Multiagent Approach to Debate Feedback Generation [In Progress]
+<div style="width: 80%;">
+    In this project, we aim to develop a multi-agent framework to generate participant-specific feedback for debates.
+</div>
+
 ### A Basic Game Engine [link](https://github.com/OJ98/Game_Engine_Design_Final_Project/tree/main)
 <div style="width: 80%;">
     This is an implementation of a basic game engine in C++. The engine was developed for a basic platformer and achieves code reuse of ~95% for an implementation of Flappy Bird and ~82% for an implementation of Space Invaders.
