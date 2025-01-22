@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Masters in Computer Science, North Carolina State University [2023 - 2025]
+  - Projected GPA (4.0/4.0)
+  - Relevant Coursework - LLMs and Security, Controllable AI, Natural Language Processing, Artificial Intelligence
+* B.Tech. in Computer Science, College of Engineering, Pune [2016 - 2020]
+  - GPA (8.65/10)
+  - Major GPA (8.92/10)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* *Full Stack Developer*, Equities Tech, Credit Suisse Services AG, Pune [July 2021 - July 2022]
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* *Front End Developer*, International Wealth Management, Credit Suisse Services AG, Pune [July 2020 - July 2021]
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* *Intern*, International Wealth Management, Credit Suisse Services AG, Pune [May 2019 - July 2019]
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Research
+  - Natural Language Processing
+  - Large Language Models
+  - Security
+  - Argumentation
+* Programming Languages
+  - Python
+  - C++
+* Frameworks/Libraries
+  - PyTorch, Tensorflow, Keras
+  - sk-learn, OpenCV, nltk, spaCy
+  - AngularJS, Node
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: EMNLP 2022, EMNLP 2023
