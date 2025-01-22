@@ -5,8 +5,6 @@ permalink: /experiences/
 author_profile: true
 ---
 
-Professional Experience 
-======
 ### *Full Stack Developer*, Equities Tech, Credit Suisse Services AG, Pune [July 2021 - July 2022]
 - Designed, developed and deployed a new service to integrate Stock Borrow Agreement data into existing database architecture post new financial legislation being passed in Hong Kong in 2021.
 - Developed a modern UI for an internal tool to replace EquiLend NGT.

@@ -5,8 +5,6 @@ permalink: /pandc/
 author_profile: true
 ---
 
-Projects and Code
-======
 ### Phishing and LLMs [In Progress]
 <div style="width: 80%;">
     Current-gen LLMs have the capacity to generate high-quality HTML pages that could prove to be effective in a phishing context. This project aims to investigate the occurence of this behavior and the features that can serve as reliable indicators to predict it.
