@@ -14,6 +14,6 @@ I am always excited to discuss/collaborate on any projects or ideas. Please reac
 
 
 ## News
-* *[2023.8]* Started the MCS program at NC State!
+* *[2023.8]* Started my Masters in Computer Science at NC State!
 * *[2023.7]* Our paper, "ArgAnalysis35K" accepted and published to the main conference of ACL 2023!
 * *[2022.9]* Our paper, "	A Proposal For An Interactive Parliamentary Debate Adjudication System" accepted and published in the Human-in-the-loop learning workshop at NeurIPS 2022
