@@ -15,12 +15,12 @@ author_profile: true
     In this project, we aim to develop a multi-agent framework to generate participant-specific feedback for debates.
 </div>
 
-### A Basic Game Engine [link](https://github.com/OJ98/Game_Engine_Design_Final_Project/tree/main)
+### A Basic Game Engine \[[link](https://github.com/OJ98/Game_Engine_Design_Final_Project/tree/main)\]
 <div style="width: 80%;">
     This is an implementation of a basic game engine in C++. The engine was developed for a basic platformer and achieves code reuse of ~95% for an implementation of Flappy Bird and ~82% for an implementation of Space Invaders.
 </div>
 
-### JChat - A JATMO-inspired Universal LLM chat Prompt Injection Defender [link](https://github.com/davidroot8/JChat)
+### JChat - A JATMO-inspired Universal LLM chat Prompt Injection Defender \[[link](https://github.com/davidroot8/JChat)\]
 <div style="width: 80%;">
     Large Language Models (LLMs) are one of the most significant innovations of the past decade due to their immense scope and versatility. However, it is this same scope that makes LLMs vulnerable to prompt-based attacks including prompt injection. To the best of our knowledge, there is no comprehensive defense technique against prompt injection. Most popular models including Meta AI’s LLaMa series and OpenAI’s GPT series are vulnerable to prompt injection. This paper proposes a detection-elimination based approach to the problem of prompt injection defense. We evaluate this approach on three parameters - effectiveness, performance and efficiency and report comparative results against baselines including GPT3.5 and LlaMa2.
 </div>
