@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
+* PhD in Computer Science, North Carolina State University [2025 -]
+  - Advised by Dr. Munindar Singh
 * Masters in Computer Science, North Carolina State University [2023 - 2025]
-  - Projected GPA (4.0/4.0)
+  - GPA (4.0/4.0)
   - Relevant Coursework - LLMs and Security, Controllable AI, Natural Language Processing, Artificial Intelligence
 * B.Tech. in Computer Science, College of Engineering, Pune [2016 - 2020]
   - GPA (8.65/10)
