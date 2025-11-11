@@ -29,14 +29,17 @@ Work experience
 Skills
 ======
 * Research
+  - Multiagents
+  - Protocols
   - Natural Language Processing
   - Large Language Models
-  - Security
+  - Computational Social Science
   - Argumentation
 * Programming Languages
   - Python
   - C++
 * Frameworks/Libraries
+  - Supabase
   - PyTorch, Tensorflow, Keras
   - sk-learn, OpenCV, nltk, spaCy
   - AngularJS, Node
@@ -45,4 +48,4 @@ Service and leadership
 ======
 * Reviewer: EMNLP 2022, EMNLP 2023
 
-[Download](/files/Resume_PhD.pdf)
+[Download](/files/Resume_PhD_Omkar.pdf)
