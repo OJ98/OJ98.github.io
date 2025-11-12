@@ -48,6 +48,6 @@ Skills
   
 Service and leadership
 ======
-* Reviewer: EMNLP 2022, EMNLP 2023
+* Reviewer: EMNLP 2022, AAAI 2023
 
 [Download](/files/Resume_PhD_Omkar.pdf)
