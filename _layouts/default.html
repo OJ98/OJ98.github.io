@@ -19,6 +19,12 @@
 </head>
 <body>
     <aside class="site-sidebar">
+        {% if site.author.avatar %}
+        <div class="sidebar-avatar">
+            <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+        </div>
+        {% endif %}
+
         <div class="sidebar-brand">
             <a href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
         </div>
