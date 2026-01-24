@@ -25,6 +25,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# Include _pages folder
+include:
+  - _pages
+
 # Collections
 collections:
   projects:
