@@ -6,12 +6,13 @@ permalink: /
 
 # Omkar Joshi
 
-I am a {{ site.author.bio }} at NC State University. My research focuses on computational linguistics, argumentation mining, and natural language processing.
+I am a {{ site.author.bio }} at NC State University. My research focuses on multiagent protocols, large language models, argumentation mining, and natural language processing.
 
 ## Research Interests
 
-My work aims to understand how humans reason and debate through language. I am particularly interested in:
+My work aims to understand how humans and agents reason and debate through language. I am particularly interested in:
 
+- **Multiagent Systems and Protocols:** Building intelligent agents that can operate in multiprotocol environments.
 - **Argumentation Mining:** Extracting and analyzing argumentative structures in text.
 - **Debate Analysis:** Developing computational models to evaluate the quality and impact of debate.
 - **Natural Language Understanding:** Improving how models represent complex rhetorical structures.
@@ -32,5 +33,5 @@ My work aims to understand how humans reason and debate through language. I am p
 ---
 
 <p class="sidenote">
-I am currently seeking collaborations on projects involving argumentation and Large Language Models. Feel free to reach out via email.
+I'm always interested in chatting about argumentation and Large Language Models. Feel free to reach out via email!
 </p>
