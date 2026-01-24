@@ -5,7 +5,7 @@ date: 2023-07-01
 description: A large-scale dataset for argument mining and analysis with 35K annotated examples
 category: publication
 authors: "Omkar Joshi*, Priya Pitre*, Dr. Yashodhara Haribhakta"
-venue: "ACL 2023"
+venue: "ACL 2023, Toronto, Canada"
 year: 2023
 ---
 
