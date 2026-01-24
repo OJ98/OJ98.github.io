@@ -6,7 +6,7 @@ permalink: /
 
 # Omkar Joshi
 
-I am a {{ site.author.bio }} at NC State University. My research focuses on multiagent protocols, large language models, argumentation mining, and natural language processing.
+I am a PhD student in the Department of Computer Science at NC State University advised by <a href="https://www.csc2.ncsu.edu/faculty/mpsingh/">Dr. Munindar Singh</a>. My research focuses on multiagent protocols, large language models and natural language processing.
 
 ## Research Interests
 
