@@ -4,7 +4,7 @@ title: "Interactive Parliamentary Debate Adjudication System"
 date: 2022-09-01
 description: A human-in-the-loop system for automated debate adjudication using machine learning
 category: publication
-authors: "Omkar Joshi, et al."
+authors: "Omkar Joshi*, Priya Pitre*"
 venue: "NeurIPS 2022 (HILL Workshop)"
 year: 2022
 ---
