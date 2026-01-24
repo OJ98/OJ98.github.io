@@ -62,7 +62,7 @@ permalink: /cv/
     
     <p><strong>Research:</strong> Multiagents, Protocols, NLP, LLMs, Computational Social Science, Argumentation</p>
     <p><strong>Languages:</strong> Python, C++, SQL</p>
-    <p><strong>Tools:</strong> PyTorch, TensorFlow, scikit-learn, spaCy, Node.js, Angular</p>
+    <p><strong>Tools:</strong> Microsoft Agent Framework, PyTorch, TensorFlow, scikit-learn, spaCy, Node.js, Angular</p>
 </div>
 
 <div class="cv-section">
