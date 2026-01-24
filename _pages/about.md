@@ -6,7 +6,7 @@ permalink: /about/
 
 # About
 
-I am a PhD student in the Computer Science Department at NC State University, advised by Dr. Munindar Singh. My research explores how Multiagent Protocols and Large Language Models can be used to model and analyze complex human reasoning, particularly in the context of argumentation and debate.
+I am a PhD student in the Computer Science Department at NC State University, advised by [Dr. Munindar Singh](https://www.csc2.ncsu.edu/faculty/mpsingh/). My research explores how Multiagent Protocols and Large Language Models can be used to model and analyze complex human reasoning, particularly in the context of argumentation and debate.
 
 ## Research Interests
 
