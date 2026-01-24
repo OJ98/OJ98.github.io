@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<article class="research-detail">
+    <header class="research-header">
+        <h1>{{ page.title }}</h1>
+        <div class="meta">
+            {% if page.authors %}<span class="authors">{{ page.authors }}</span><br>{% endif %}
+            {% if page.venue %}<span class="venue">{{ page.venue }}</span>{% endif %}
+            {% if page.year %} <span class="year">({{ page.year }})</span>{% endif %}
+        </div>
+    </header>
+
+    {% if page.image %}
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="research-hero-image">
+    {% endif %}
+
+    <div class="research-content">
+        {{ content }}
+    </div>
+
+    <div class="research-footer">
+        <a href="{{ '/research/' | relative_url }}">&larr; Back to Research</a>
+    </div>
+</article>

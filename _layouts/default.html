@@ -18,42 +18,41 @@
     {% endif %}
 </head>
 <body>
-    <header class="site-header">
-        <nav class="nav">
-            <div class="nav-container">
-                <a href="{{ '/' | relative_url }}" class="site-logo">{{ site.title }}</a>
-                <ul class="nav-links">
-                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-                    <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
-                    <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-                    <li><a href="{{ '/cv/' | relative_url }}">CV</a></li>
-                    <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-                </ul>
-            </div>
+    <aside class="site-sidebar">
+        <div class="sidebar-brand">
+            <a href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+        </div>
+        
+        <nav>
+            <ul class="sidebar-nav">
+                <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
+                <li><a href="{{ '/cv/' | relative_url }}">CV</a></li>
+                <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+            </ul>
         </nav>
-    </header>
+
+        <div class="social-links">
+            {% if site.author.googlescholar %}
+            <a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar</a>
+            {% endif %}
+            {% if site.author.github %}
+            <a href="https://github.com/{{ site.author.github }}" target="_blank">GitHub</a>
+            {% endif %}
+            {% if site.author.email %}
+            <a href="mailto:{{ site.author.email }}">Email</a>
+            {% endif %}
+        </div>
+
+        <footer class="sidebar-footer">
+            <p>&copy; {{ site.time | date: '%Y' }}</p>
+        </footer>
+    </aside>
 
     <main class="main-content">
         <div class="content-wrapper">
             {{ content }}
         </div>
     </main>
-
-    <footer class="site-footer">
-        <div class="footer-content">
-            <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. All rights reserved.</p>
-            <div class="social-links">
-                {% if site.author.github %}
-                <a href="https://github.com/{{ site.author.github }}" target="_blank">GitHub</a>
-                {% endif %}
-                {% if site.author.googlescholar %}
-                <a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar</a>
-                {% endif %}
-                {% if site.author.email %}
-                <a href="mailto:{{ site.author.email }}">Email</a>
-                {% endif %}
-            </div>
-        </div>
-    </footer>
 </body>
 </html>

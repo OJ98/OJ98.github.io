@@ -4,35 +4,32 @@ title: Home
 permalink: /
 ---
 
-<section class="hero">
-    <h1>Hi, I'm {{ site.author.name }}</h1>
-    <p>{{ site.author.bio }} in {{ site.author.location }}</p>
-    
-    <div class="cta-buttons">
-        <a href="{{ '/projects/' | relative_url }}" class="btn btn-primary">View My Projects</a>
-        <a href="{{ '/about/' | relative_url }}" class="btn btn-secondary">Learn More</a>
-    </div>
-</section>
+# Omkar Joshi
 
-<section>
-    <h2>Featured Projects</h2>
-    
-    <div class="projects-grid">
-        {% for project in site.projects limit:3 %}
-        <div class="project-card">
-            {% if project.image %}
-            <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" class="project-image">
-            {% endif %}
-            <div class="project-content">
-                <h3>{{ project.title }}</h3>
-                <p>{{ project.description }}</p>
-                <a href="{{ project.url | relative_url }}" class="project-link">Learn More →</a>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
+I am a {{ site.author.bio }} at NC State University. My research focuses on computational linguistics, argumentation mining, and natural language processing.
 
-    <div style="text-align: center; margin-top: 2rem;">
-        <a href="{{ '/projects/' | relative_url }}" class="btn btn-primary">See All Projects</a>
-    </div>
-</section>
+## Research Interests
+
+My work aims to understand how humans reason and debate through language. I am particularly interested in:
+- **Argumentation Mining:** Extracting and analyzing argumentative structures in text.
+- **Debate Analysis:** Developing computational models to evaluate the quality and impact of debate.
+- **Natural Language Understanding:** Improving how models represent complex rhetorical structures.
+
+## Selected Publications
+
+{% assign publications = site.research | where: "category", "publication" %}
+{% for pub in publications limit: 3 %}
+<div class="publication-item">
+    <span class="publication-title"><a href="{{ pub.url | relative_url }}">{{ pub.title }}</a></span>
+    <span class="publication-authors">{{ pub.authors }}</span><br>
+    <span class="publication-venue">{{ pub.venue }}, {{ pub.year }}</span>
+</div>
+{% endfor %}
+
+[View all research &rarr;]({{ '/research/' | relative_url }})
+
+---
+
+<p class="sidenote">
+I am currently seeking collaborations on projects involving argumentation and Large Language Models. Feel free to reach out via email.
+</p>

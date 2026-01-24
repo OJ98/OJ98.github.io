@@ -31,9 +31,9 @@ include:
 
 # Collections
 collections:
-  projects:
+  research:
     output: true
-    permalink: /projects/:name/
+    permalink: /research/:name/
 
 # Markdown processor
 markdown: kramdown
