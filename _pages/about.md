@@ -25,7 +25,34 @@ Outside of the lab, I am an avid quizzer and board game enthusiast. You can find
 
 ## Recent Updates
 
-- **Aug 2025:** Started my PhD journey at NC State!
-- **Aug 2023:** Began my Masters in Computer Science at NC State.
-- **July 2023:** "ArgAnalysis35K" was published at **ACL 2023**.
-- **Sept 2022:** Presented our work on debate adjudication at the **NeurIPS 2022** HILL workshop.
+<div class="timeline-section">
+  <div class="timeline-container">
+    <div class="timeline-item">
+      <div class="timeline-date">Aug 2025</div>
+      <div class="timeline-content">
+        <p>Started my PhD journey at NC State!</p>
+      </div>
+    </div>
+    
+    <div class="timeline-item">
+      <div class="timeline-date">Aug 2023</div>
+      <div class="timeline-content">
+        <p>Began my Masters in Computer Science at NC State.</p>
+      </div>
+    </div>
+    
+    <div class="timeline-item">
+      <div class="timeline-date">July 2023</div>
+      <div class="timeline-content">
+        <p>"ArgAnalysis35K" was published at <strong>ACL 2023</strong>.</p>
+      </div>
+    </div>
+    
+    <div class="timeline-item">
+      <div class="timeline-date">Sept 2022</div>
+      <div class="timeline-content">
+        <p>Presented our work on debate adjudication at the <strong>NeurIPS 2022</strong> HILL workshop.</p>
+      </div>
+    </div>
+  </div>
+</div>

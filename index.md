@@ -11,6 +11,7 @@ I am a {{ site.author.bio }} at NC State University. My research focuses on comp
 ## Research Interests
 
 My work aims to understand how humans reason and debate through language. I am particularly interested in:
+
 - **Argumentation Mining:** Extracting and analyzing argumentative structures in text.
 - **Debate Analysis:** Developing computational models to evaluate the quality and impact of debate.
 - **Natural Language Understanding:** Improving how models represent complex rhetorical structures.
@@ -26,7 +27,7 @@ My work aims to understand how humans reason and debate through language. I am p
 </div>
 {% endfor %}
 
-[View all research &rarr;]({{ '/research/' | relative_url }})
+[View all research →]({{ '/research/' | relative_url }})
 
 ---
 
