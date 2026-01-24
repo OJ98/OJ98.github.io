@@ -151,8 +151,9 @@ a:hover {
 .social-links a {
     text-decoration: none;
     font-family: var(--font-sans);
-    font-size: 0.8rem;
+    font-size: 1.5rem;
     color: #888;
+    transition: color 0.2s;
 }
 
 .social-links a:hover {
@@ -237,6 +238,8 @@ a:hover {
     line-height: 1.5;
     color: var(--gray-medium);
     border-radius: 2px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 /* RESEARCH DETAIL */
