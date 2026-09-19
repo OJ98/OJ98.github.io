@@ -18,7 +18,7 @@ git push origin main
 # Install Ruby: https://rubyinstaller.org/
 # Then:
 bundle install
-bundle exec jekyll serve --host localhost --port 4000
+bundle exec jekyll serve --livereload --force-polling --host localhost --port 4000
 # Visit http://localhost:4000
 ```
 
@@ -149,7 +149,7 @@ Edit footer in `_layouts/default.html`
 
 **Test changes locally:**
 ```bash
-bundle exec jekyll serve --host localhost --port 4000
+bundle exec jekyll serve --livereload --host localhost --port 4000
 # Visit http://localhost:4000
 ```
 

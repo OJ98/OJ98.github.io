@@ -4,19 +4,17 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
+# Featured Projects
 
 Here are some of my active GitHub projects:
-
-## Featured Projects
 
 ### Argumentation-based Link Prediction using LLMs
 - **Description:** Explores the intersection of computational argumentation and link prediction in knowledge graphs. Uses large language models to extract and leverage argumentative structures for improving link prediction tasks.
 - **Tech Stack:** Python, LLMs, NLP
 - **Repository:** <a href="https://github.com/OJ98/Argumentation-based-Link-Prediction-using-LLMs" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
 
-### Game Engine Design Final Project
-- **Description:** A game engine implementation developed for CSC 581 at NC State. Covers core engine architecture, rendering pipeline, and game object management.
+### A Game Engine from Scratch
+- **Description:** Built a custom C++ game engine with a client-server architecture (ZeroMQ) featuring replay recording, time-scaling, pause/resume, and responsive rendering, and used it to ship multiple playable titles
 - **Tech Stack:** C++
 - **Repository:** <a href="https://github.com/OJ98/Game_Engine_Design_Final_Project" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
 

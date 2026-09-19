@@ -6,7 +6,7 @@ permalink: /research/
 
 # Research
 
-My research explores the intersection of Natural Language Processing and computational social science, with a focus on argumentation and debate.
+My research explores the intersection of Natural Language Processing and Multiagent Systems, with a focus on norms, agentic AI, and argumentation.
 
 ## Publications
 

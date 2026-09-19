@@ -5,8 +5,10 @@ date: 2022-09-01
 description: A human-in-the-loop system for automated debate adjudication using machine learning
 category: publication
 authors: "Omkar Joshi*, Priya Pitre*"
-venue: "NeurIPS 2022 (HILL Workshop)"
+venue: "NeurIPS Human-in-loop-learning Workshop"
 year: 2022
+location: New Orleans, LA
+link: https://neurips.cc/virtual/2022/64432
 ---
 
 ## Overview

@@ -10,6 +10,25 @@ A chronological record of my academic and professional journey.
 
 <div class="timeline-section">
   <div class="timeline-container">
+    
+    <div class="timeline-item">
+      <div class="timeline-date">Sep 2026</div>
+      <div class="timeline-content">
+        <p><strong>[Accepted] EMNLP 2026</strong></p>
+        <p>Our paper, "ReFeedGraph: Graph-grounded Reusable Feedback for Debate Improvement" was accepted to the main conference of <strong>EMNLP 2026</strong>!</p>
+      </div>
+    </div>
+    
+    
+    <div class="timeline-item">
+      <div class="timeline-date">May 2026</div>
+      <div class="timeline-content">
+        <p><strong>[Accepted] EMAS 2026</strong></p>
+        <p>Presented our work "Ahoy - LLMs enacting Interaction Protocols" at <strong>EMAS 2026</strong> in Paphos!</p>
+      </div>
+    </div>
+    
+    
     <div class="timeline-item">
       <div class="timeline-date">Aug 2025</div>
       <div class="timeline-content">
@@ -37,7 +56,7 @@ A chronological record of my academic and professional journey.
     <div class="timeline-item">
       <div class="timeline-date">July 2023</div>
       <div class="timeline-content">
-        <p><strong>ACL 2023</strong></p>
+        <p><strong>[Accepted] ACL 2023</strong></p>
         <p>Presented "ArgAnalysis35K: A large-scale dataset for argument analysis" at <strong>ACL 2023</strong> in Toronto!</p>
       </div>
     </div>
@@ -45,7 +64,7 @@ A chronological record of my academic and professional journey.
     <div class="timeline-item">
       <div class="timeline-date">Sept 2022</div>
       <div class="timeline-content">
-        <p><strong>NeurIPS Workshop Presentation</strong></p>
+        <p><strong>[Accepted] NeurIPS Workshop Presentation</strong></p>
         <p>Presented our work on debate adjudication at the <strong>NeurIPS 2022</strong> HILL (Human-In-the-Loop Learning) workshop.</p>
       </div>
     </div>
