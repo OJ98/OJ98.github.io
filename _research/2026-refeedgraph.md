@@ -8,7 +8,7 @@ authors: "Omkar J. Joshi*, Priya Pitre*, Timon Ziegenbein, Henning Wachsmuth"
 venue: "EMNLP Main Conference"
 year: 2026
 location: Budapest, Hungary
-link: https://openreview.net/pdf?id=CDuZqKVuUO
+link: https://aclanthology.org/2026.emnlp-main.678/
 ---
 
 ## Research Problem

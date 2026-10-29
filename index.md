@@ -10,11 +10,10 @@ I am a PhD student in the Department of Computer Science at NC State University 
 
 ## Research Interests
 
-My work aims to understand how humans and agents reason and debate through language. I am particularly interested in:
-
-- **Normative Multiagent Systems:** Building intelligent norm-aware agents that can operate in complex environments.
-- **Computational Argumentation:** Extracting and evaluating argumentative structures in natural language.
-- **Natural Language Understanding in the context of Debate Analysis:** Developing computational models to evaluate the quality and impact of rhetorical structures.
+My research focuses on building intelligent systems that reason, communicate, and make decisions through natural language. I am particularly interested in:
+- <b>LLM-Based Agents and Multiagent Systems:</b> Designing autonomous agents that coordinate through interaction protocols, reason about norms, and operate reliably in complex environments.
+- <b>Reliable AI and Decision Support:</b> Investigating how reasoning, structured knowledge, feedback, and evaluation mechanisms can improve the reliability of LLM-based systems in complex decision-making tasks.
+- <b>Computational Argumentation:</b> Developing computational methods to extract, analyze, and evaluate arguments, rhetorical strategies, and the quality of natural-language reasoning.
 
 ## Selected Publications
 
